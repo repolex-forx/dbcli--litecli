@@ -1,0 +1,7 @@
+[2026-10-18T05:11:58Z] === AST ITERATION 1 START | repo=dbcli/litecli sha=aa53bb0c ===
+[2026-10-18T05:11:58Z] [iter=1] PHASE START: ast repo=dbcli/litecli sha=aa53bb0c
+[2026-10-18T05:11:58Z] [iter=1] Building AST aggregate chunks
+[2026-10-18T05:12:27Z] [iter=1] AST chunks built count=1 triples=314438
+[2026-10-18T05:12:27Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/aa53bb0c1530cd1dfb30534babb0bf47df33c60a/.complete
+[2026-10-18T05:12:27Z] [iter=1] PHASE END: ast elapsed_s=29 elapsed_min=0.5
+[2026-10-18T05:12:27Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
