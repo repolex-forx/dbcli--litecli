@@ -1,0 +1,11 @@
+{
+  "org": "dbcli",
+  "repo": "litecli",
+  "versions": [
+    {
+      "commit": "aa53bb0c1530cd1dfb30534babb0bf47df33c60a",
+      "tag": "",
+      "parsed_at": "2026-10-18T05:13:32.530843+00:00"
+    }
+  ]
+}
