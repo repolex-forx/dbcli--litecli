@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/dbcli/litecli/commit/aa53bb0c1530cd1dfb30534babb0bf47df33c60a",
       "git:hexsha": "aa53bb0c1530cd1dfb30534babb0bf47df33c60a",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T05:13:32.530162+00:00"
     },
     {
       "@id": "https://repolex.ai/r/dbcli/litecli/commit/e2929728af942f7071782d5095788bd4ed8ab8b5",
